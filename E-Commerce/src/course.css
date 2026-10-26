@@ -1,0 +1,9 @@
+.desc-con{
+    text-align: left;
+}
+.hover-bg-light:hover {
+  background-color: #f3f4f6; /* Tailwind gray-100 */
+}
+.list-unstyled{
+    text-align: left;
+}

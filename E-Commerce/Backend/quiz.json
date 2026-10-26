@@ -1,0 +1,136 @@
+{
+  "quizTitle": "MERN Stack Complete Quiz",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does MERN stand for?",
+      "options": [
+        "MongoDB, Express, React, Node",
+        "MySQL, Express, React, Node",
+        "MongoDB, Express, Redux, Node",
+        "MongoDB, Electron, React, Node"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Which database is used in MERN?",
+      "options": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "React is mainly used for?",
+      "options": ["Database", "Frontend UI", "Backend logic", "Authentication"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which hook is used for state in React?",
+      "options": ["useEffect", "useState", "useRef", "useMemo"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which hook runs side effects in React?",
+      "options": ["useState", "useEffect", "useContext", "useReducer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which command initializes a Node project?",
+      "options": ["node init", "npm start", "npm init", "node install"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which framework is used with Node in MERN?",
+      "options": ["Django", "Laravel", "Express", "Flask"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which method connects MongoDB using Mongoose?",
+      "options": [
+        "mongoose.open()",
+        "mongoose.connect()",
+        "mongoose.start()",
+        "mongoose.init()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 9,
+      "question": "Default port for React app?",
+      "options": ["5000", "8000", "3000", "27017"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 10,
+      "question": "Default port for MongoDB?",
+      "options": ["3000", "5000", "8080", "27017"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which middleware parses JSON in Express?",
+      "options": ["cors()", "express.json()", "morgan()", "dotenv()"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which library is used for HTTP requests in React?",
+      "options": ["mongoose", "axios", "nodemon", "bcrypt"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which React Router hook gets URL parameters?",
+      "options": ["useLocation", "useParams", "useRoute", "useNavigate"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which command runs a Node server?",
+      "options": ["npm run", "node app.js", "start node", "npm build"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which package auto-restarts server during development?",
+      "options": ["nodemon", "mongoose", "axios", "cors"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 16,
+      "question": "Which HTTP method is used to create data?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 17,
+      "question": "Which HTTP method updates data?",
+      "options": ["GET", "POST", "PUT", "FETCH"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which hook is used for navigation in React Router v6?",
+      "options": ["useHistory", "useNavigate", "useRoute", "useLink"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which package is used for password hashing?",
+      "options": ["axios", "bcrypt", "cors", "express"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which method is used to delete data in Express route?",
+      "options": ["app.get()", "app.post()", "app.delete()", "app.update()"],
+      "correctAnswer": 2
+    }
+  ]
+}
